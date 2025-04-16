@@ -1,0 +1,11 @@
+{
+    "name": "Bombardiro Crocodilo",
+    "description": "Bombardiro Crocodilo",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Crocodile"
+        }
+    ]
+}

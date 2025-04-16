@@ -1,0 +1,11 @@
+{
+    "name": "Tralalelo tralalalo",
+    "description": "Tralalelo tralalalo",
+    "image": "ipfs://",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Shark"
+        }
+    ]
+}
